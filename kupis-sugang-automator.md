@@ -1,5 +1,5 @@
 ![kulogo](http://www.konkuk.ac.kr/img/Main/img_logo_ku.png)
-# __KUPIS 수강신청 매크로 솔루션__
+# __KUPIS SUGANG AUTOMATOR__
 
 [TOC]
 
